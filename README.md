@@ -47,16 +47,16 @@ df.isnull().sum()
 ## INFO
 ![GitHubLogo](ex1info.png)
 ## ISNULL
-![GitHubLogo](ex-1isnull1.png)
+![GitHubLogo](ex1isnull.png)
 ## MODE
-![GitHubLogo](ex1isnull2.png)
+![GitHubLogo](ex1mode.png)
 ## MEAN
-![GitHubLogo](ex1isnull3.png)
+![GitHubLogo](ex1mean.png)
 ## MEDIAN
-![GitHubLogo](ex1info2.png)
+![GitHubLogo](ex1median.png)
 ## FINAL
-![GitHubLogo](ex1isnull4.png)
-![GitHubLogo](ex1isnull5.png)
+![GitHubLogo](ex1final1.png)
+![GitHubLogo](ex1final2.png)
 
 # RESULT :
  The data is cleaned and it is filled with MEAN, MODE and MEDIAN and in the final output we can see that it has 0 null values.
